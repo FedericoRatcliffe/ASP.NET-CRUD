@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|c:\\users\\fratcliffe\\source\\repos\\workspace udemy\\proyecto 1 - crud - aspnet\\proyecto 1 - crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|solutionrelative:proyecto 1 - crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|c:\\users\\fratcliffe\\source\\repos\\workspace udemy\\proyecto 1 - crud - aspnet\\proyecto 1 - crud\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|solutionrelative:proyecto 1 - crud\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|c:\\users\\fratcliffe\\source\\repos\\workspace udemy\\proyecto 1 - crud - aspnet\\proyecto 1 - crud\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|solutionrelative:proyecto 1 - crud\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\proyecto 1 - crud\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|solutionrelative:proyecto 1 - crud\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\proyecto 1 - crud\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD305302-9DC1-4886-AAE1-D8E08C805634}|Proyecto 1 - CRUD\\Proyecto 1 - CRUD.csproj|solutionrelative:proyecto 1 - crud\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 - CRUD\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Models\\Contacto.cs",
+              "RelativeToolTip": "Proyecto 1 - CRUD\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:41:44.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto 1 - CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto 1 - CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:24:50.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Proyecto 1 - CRUD\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "Proyecto 1 - CRUD\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:17:40.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "Proyecto 1 - CRUD\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "Proyecto 1 - CRUD\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:06:43.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Proyecto 1 - CRUD\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Proyecto 1 - CRUD - AspNet\\Proyecto 1 - CRUD\\Views\\Inicio\\Crear.cshtml",
+              "RelativeToolTip": "Proyecto 1 - CRUD\\Views\\Inicio\\Crear.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:59:33.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
